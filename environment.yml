@@ -1,0 +1,10 @@
+name: recording-to-text
+channels:
+- conda-forge
+dependencies:
+- ipykernel
+- openai
+- tiktoken
+- pip
+- pip:
+  - assemblyai
